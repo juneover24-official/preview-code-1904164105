@@ -1,326 +1,8 @@
 {
   "qq_number": "1904164105",
   "group_number": "1065163804",
-  "updated_at": "2026-04-22T16:19:15.780409",
+  "updated_at": "2026-04-23T15:52:37.110022",
   "skins": [
-    {
-      "name": "萱萱の裙摆飞扬",
-      "file": "萱萱の裙摆飞扬.bds",
-      "thumb": "萱萱の裙摆飞扬.bds_py_26_light_thumb.png",
-      "full": "萱萱の裙摆飞扬.bds_py_26_light.png"
-    },
-    {
-      "name": "萱萱の新年kt大表姐",
-      "file": "萱萱の新年KT大表姐.bds",
-      "thumb": "萱萱の新年KT大表姐.bds_py_26_light_thumb.png",
-      "full": "萱萱の新年KT大表姐.bds_py_26_light.png"
-    },
-    {
-      "name": "萱萱の玛丽猫大表姐",
-      "file": "萱萱の玛丽猫大表姐.bds",
-      "thumb": "萱萱の玛丽猫大表姐.bds_py_26_light_thumb.png",
-      "full": "萱萱の玛丽猫大表姐.bds_py_26_light.png"
-    },
-    {
-      "name": "萱萱の草莓甜心",
-      "file": "萱萱の草莓甜心安卓.bds",
-      "thumb": "萱萱の草莓甜心安卓.bds_py_26_default_thumb.png",
-      "full": "萱萱の草莓甜心安卓.bds_py_26_default.png"
-    },
-    {
-      "name": "萱萱の小鲨鱼左拉",
-      "file": "萱萱の小鲨鱼左拉.bds",
-      "thumb": "萱萱の小鲨鱼左拉.bds_py_26_light_thumb.png",
-      "full": "萱萱の小鲨鱼左拉.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "小新嘎子姐啊.bds",
-      "thumb": "小新嘎子姐啊.bds_py_26_light_thumb.png",
-      "full": "小新嘎子姐啊.bds_py_26_light.png"
-    },
-    {
-      "name": "萱萱の新年大表姐",
-      "file": "萱萱の新年大表姐.bds",
-      "thumb": "萱萱の新年大表姐.bds_py_26_light_thumb.png",
-      "full": "萱萱の新年大表姐.bds_py_26_light.png"
-    },
-    {
-      "name": "萱萱の颜文字 黄",
-      "file": "萱萱の颜文字黄安卓.bds",
-      "thumb": "萱萱の颜文字黄安卓.bds_py_26_default_thumb.png",
-      "full": "萱萱の颜文字黄安卓.bds_py_26_default.png"
-    },
-    {
-      "name": "夏日",
-      "file": "夏日.bds",
-      "thumb": "夏日.bds_py_26_default_thumb.png",
-      "full": "夏日.bds_py_26_default.png"
-    },
-    {
-      "name": "萱萱の护士小兔",
-      "file": "萱萱の护士小兔闷脆.bds",
-      "thumb": "萱萱の护士小兔闷脆.bds_py_26_light_thumb.png",
-      "full": "萱萱の护士小兔闷脆.bds_py_26_light.png"
-    },
-    {
-      "name": "萱萱の春日小兔",
-      "file": "春.bds",
-      "thumb": "春.bds_py_26_light_thumb.png",
-      "full": "春.bds_py_26_light.png"
-    },
-    {
-      "name": "萱萱の蓝莓dora",
-      "file": "萱萱の蓝莓dora水晶版.bds",
-      "thumb": "萱萱の蓝莓dora水晶版.bds_py_26_light_thumb.png",
-      "full": "萱萱の蓝莓dora水晶版.bds_py_26_light.png"
-    },
-    {
-      "name": "萱萱の颜文字 粉",
-      "file": "萱萱の颜文字粉安卓.bds",
-      "thumb": "萱萱の颜文字粉安卓.bds_py_26_default_thumb.png",
-      "full": "萱萱の颜文字粉安卓.bds_py_26_default.png"
-    },
-    {
-      "name": "玛丽猫小表姐",
-      "file": "玛丽猫小表姐安卓.bds",
-      "thumb": "玛丽猫小表姐安卓.bds_py_26_default_thumb.png",
-      "full": "玛丽猫小表姐安卓.bds_py_26_default.png"
-    },
-    {
-      "name": "萱萱の黑粉兔兔嘎子姐",
-      "file": "黑粉兔兔嘎子姐.bds",
-      "thumb": "黑粉兔兔嘎子姐.bds_py_26_light_thumb.png",
-      "full": "黑粉兔兔嘎子姐.bds_py_26_light.png"
-    },
-    {
-      "name": "萱萱の蝴蝶大表姐",
-      "file": "蝴蝶大表姐闷脆.bds",
-      "thumb": "蝴蝶大表姐闷脆.bds_py_26_light_thumb.png",
-      "full": "蝴蝶大表姐闷脆.bds_py_26_light.png"
-    },
-    {
-      "name": "萱萱の红苹果嘎子姐",
-      "file": "萱萱の红苹果嘎子姐无漂浮.bds",
-      "thumb": "萱萱の红苹果嘎子姐无漂浮.bds_py_26_light_thumb.png",
-      "full": "萱萱の红苹果嘎子姐无漂浮.bds_py_26_light.png"
-    },
-    {
-      "name": "萱萱の新年嘎子姐",
-      "file": "萱萱の新年嘎子姐.bds",
-      "thumb": "萱萱の新年嘎子姐.bds_py_26_light_thumb.png",
-      "full": "萱萱の新年嘎子姐.bds_py_26_light.png"
-    },
-    {
-      "name": "萱萱の马上有钱dora",
-      "file": "萱萱の马上有钱dora.bds",
-      "thumb": "萱萱の马上有钱dora.bds_py_26_light_thumb.png",
-      "full": "萱萱の马上有钱dora.bds_py_26_light.png"
-    },
-    {
-      "name": "萱萱の颜文字 紫",
-      "file": "萱萱の颜文字紫安卓.bds",
-      "thumb": "萱萱の颜文字紫安卓.bds_py_26_default_thumb.png",
-      "full": "萱萱の颜文字紫安卓.bds_py_26_default.png"
-    },
-    {
-      "name": "萱萱の马上有钱大表姐",
-      "file": "萱萱の马上有钱大表姐.bds",
-      "thumb": "萱萱の马上有钱大表姐.bds_py_26_light_thumb.png",
-      "full": "萱萱の马上有钱大表姐.bds_py_26_light.png"
-    },
-    {
-      "name": "萱萱の三丽鸥嘎子姐",
-      "file": "萱萱の三丽鸥嘎子姐.bds",
-      "thumb": "萱萱の三丽鸥嘎子姐.bds_py_26_light_thumb.png",
-      "full": "萱萱の三丽鸥嘎子姐.bds_py_26_light.png"
-    },
-    {
-      "name": "萱萱の公主请发财",
-      "file": "萱萱の公主请发财.bds",
-      "thumb": "萱萱の公主请发财.bds_py_26_light_thumb.png",
-      "full": "萱萱の公主请发财.bds_py_26_light.png"
-    },
-    {
-      "name": "萱萱の圣诞dora",
-      "file": "萱萱の圣诞dora安卓.bds",
-      "thumb": "萱萱の圣诞dora安卓.bds_py_26_light_thumb.png",
-      "full": "萱萱の圣诞dora安卓.bds_py_26_light.png"
-    },
-    {
-      "name": "萱萱の红格子兔兔大表姐",
-      "file": "红格子嘎子姐.bds",
-      "thumb": "红格子嘎子姐.bds_py_26_light_thumb.png",
-      "full": "红格子嘎子姐.bds_py_26_light.png"
-    },
-    {
-      "name": "萱萱の青苹果女孩",
-      "file": "萱萱の青苹果妹妹.bds",
-      "thumb": "萱萱の青苹果妹妹.bds_py_26_light_thumb.png",
-      "full": "萱萱の青苹果妹妹.bds_py_26_light.png"
-    },
-    {
-      "name": "萱萱の定制",
-      "file": "定制.bds",
-      "thumb": "定制.bds_py_26_light_thumb.png",
-      "full": "定制.bds_py_26_light.png"
-    },
-    {
-      "name": "萱萱の彩色砂糖",
-      "file": "temp_1776583477891_1a2x4pr7_萱萱の彩色砂糖.bds",
-      "thumb": "temp_1776583477891_1a2x4pr7_萱萱の彩色砂糖.bds_py_26_light_thumb.png",
-      "full": "temp_1776583477891_1a2x4pr7_萱萱の彩色砂糖.bds_py_26_light.png"
-    },
-    {
-      "name": "萱萱の红苹果嘎子姐",
-      "file": "萱萱の红苹果嘎子姐2.bds",
-      "thumb": "萱萱の红苹果嘎子姐2.bds_py_26_light_thumb.png",
-      "full": "萱萱の红苹果嘎子姐2.bds_py_26_light.png"
-    },
-    {
-      "name": "萱萱のkt嘎子姐",
-      "file": "萱萱のKT嘎子姐.bds",
-      "thumb": "萱萱のKT嘎子姐.bds_py_26_light_thumb.png",
-      "full": "萱萱のKT嘎子姐.bds_py_26_light.png"
-    },
-    {
-      "name": "萱萱の小羊嘎子姐",
-      "file": "萱萱の小羊嘎子姐.bds",
-      "thumb": "萱萱の小羊嘎子姐.bds_py_26_light_thumb.png",
-      "full": "萱萱の小羊嘎子姐.bds_py_26_light.png"
-    },
-    {
-      "name": "萱萱の紫色甜辣大表姐",
-      "file": "萱萱の紫色甜辣大表姐.bds",
-      "thumb": "萱萱の紫色甜辣大表姐.bds_py_26_light_thumb.png",
-      "full": "萱萱の紫色甜辣大表姐.bds_py_26_light.png"
-    },
-    {
-      "name": "萱萱の蝴蝶大表姐",
-      "file": "蝴蝶大表姐脆脆.bds",
-      "thumb": "蝴蝶大表姐脆脆.bds_py_26_light_thumb.png",
-      "full": "蝴蝶大表姐脆脆.bds_py_26_light.png"
-    },
-    {
-      "name": "萱萱の颜文字 蓝",
-      "file": "萱萱の颜文字蓝安卓.bds",
-      "thumb": "萱萱の颜文字蓝安卓.bds_py_26_default_thumb.png",
-      "full": "萱萱の颜文字蓝安卓.bds_py_26_default.png"
-    },
-    {
-      "name": "萱萱の冬日嘎子姐",
-      "file": "萱萱の冬日嘎子姐.bds",
-      "thumb": "萱萱の冬日嘎子姐.bds_py_26_light_thumb.png",
-      "full": "萱萱の冬日嘎子姐.bds_py_26_light.png"
-    },
-    {
-      "name": "萱萱の甜点兔",
-      "file": "萱萱の甜点兔.bds",
-      "thumb": "萱萱の甜点兔.bds_py_26_default_thumb.png",
-      "full": "萱萱の甜点兔.bds_py_26_default.png"
-    },
-    {
-      "name": "萱萱のkt熊小表姐",
-      "file": "萱萱のkt熊小表姐.bds",
-      "thumb": "萱萱のkt熊小表姐.bds_py_26_light_thumb.png",
-      "full": "萱萱のkt熊小表姐.bds_py_26_light.png"
-    },
-    {
-      "name": "萱萱の帕恰小表姐",
-      "file": "萱萱の帕恰小表姐.bds",
-      "thumb": "萱萱の帕恰小表姐.bds_py_26_light_thumb.png",
-      "full": "萱萱の帕恰小表姐.bds_py_26_light.png"
-    },
-    {
-      "name": "萱萱の电话美乐蒂嘎子姐",
-      "file": "萱萱の电话美乐蒂嘎子姐.bds",
-      "thumb": "萱萱の电话美乐蒂嘎子姐.bds_py_26_light_thumb.png",
-      "full": "萱萱の电话美乐蒂嘎子姐.bds_py_26_light.png"
-    },
-    {
-      "name": "萱萱の喜福相伴",
-      "file": "萱萱の喜福相伴.bds",
-      "thumb": "萱萱の喜福相伴.bds_py_26_light_thumb.png",
-      "full": "萱萱の喜福相伴.bds_py_26_light.png"
-    },
-    {
-      "name": "萱萱の宝宝，在吗！！！",
-      "file": "萱萱の宝宝在吗.bds",
-      "thumb": "萱萱の宝宝在吗.bds_py_26_light_thumb.png",
-      "full": "萱萱の宝宝在吗.bds_py_26_light.png"
-    },
-    {
-      "name": "萱萱の彩色砂糖",
-      "file": "萱萱の彩色砂糖.bds",
-      "thumb": "萱萱の彩色砂糖.bds_py_26_light_thumb.png",
-      "full": "萱萱の彩色砂糖.bds_py_26_light.png"
-    },
-    {
-      "name": "萱萱の新年yomi",
-      "file": "萱萱の新年yomi.bds",
-      "thumb": "萱萱の新年yomi.bds_py_26_light_thumb.png",
-      "full": "萱萱の新年yomi.bds_py_26_light.png"
-    },
-    {
-      "name": "萱萱の护士小兔",
-      "file": "萱萱の护士小兔脆脆.bds",
-      "thumb": "萱萱の护士小兔脆脆.bds_py_26_light_thumb.png",
-      "full": "萱萱の护士小兔脆脆.bds_py_26_light.png"
-    },
-    {
-      "name": "萱萱の蝴蝶大表姐 水晶脆脆",
-      "file": "蝴蝶大表姐水晶版脆脆.bds",
-      "thumb": "蝴蝶大表姐水晶版脆脆.bds_py_26_light_thumb.png",
-      "full": "蝴蝶大表姐水晶版脆脆.bds_py_26_light.png"
-    },
-    {
-      "name": "萱萱の福利1",
-      "file": "萱萱の福利1.bds",
-      "thumb": "萱萱の福利1.bds_py_26_light_thumb.png",
-      "full": "萱萱の福利1.bds_py_26_light.png"
-    },
-    {
-      "name": "萱萱の定制 我家大师兄脑子有坑",
-      "file": "我家大师兄脑子有坑.bds",
-      "thumb": "我家大师兄脑子有坑.bds_py_26_light_thumb.png",
-      "full": "我家大师兄脑子有坑.bds_py_26_light.png"
-    },
-    {
-      "name": "萱萱の草莓小狗嘎子姐",
-      "file": "草莓小狗嘎子姐.bds",
-      "thumb": "草莓小狗嘎子姐.bds_py_26_light_thumb.png",
-      "full": "草莓小狗嘎子姐.bds_py_26_light.png"
-    },
-    {
-      "name": "萱萱の马上有钱小表姐",
-      "file": "萱萱の马上有钱小表姐.bds",
-      "thumb": "萱萱の马上有钱小表姐.bds_py_26_light_thumb.png",
-      "full": "萱萱の马上有钱小表姐.bds_py_26_light.png"
-    },
-    {
-      "name": "萱萱の蝴蝶大表姐 水晶版",
-      "file": "蝴蝶大表姐水晶闷脆.bds",
-      "thumb": "蝴蝶大表姐水晶闷脆.bds_py_26_light_thumb.png",
-      "full": "蝴蝶大表姐水晶闷脆.bds_py_26_light.png"
-    },
-    {
-      "name": "萱萱の博肖新年",
-      "file": "萱萱の博肖新年安卓.bds",
-      "thumb": "萱萱の博肖新年安卓.bds_py_26_light_thumb.png",
-      "full": "萱萱の博肖新年安卓.bds_py_26_light.png"
-    },
-    {
-      "name": "萱萱の新年dora",
-      "file": "萱萱の新年dora安卓.bds",
-      "thumb": "萱萱の新年dora安卓.bds_py_26_light_thumb.png",
-      "full": "萱萱の新年dora安卓.bds_py_26_light.png"
-    },
-    {
-      "name": "萱萱の蓝莓dora",
-      "file": "萱萱の蓝莓dora立体版.bds",
-      "thumb": "萱萱の蓝莓dora立体版.bds_py_26_light_thumb.png",
-      "full": "萱萱の蓝莓dora立体版.bds_py_26_light.png"
-    },
     {
       "name": "萱萱の甜点兔",
       "file": "萱萱の甜点兔.bdi",
@@ -644,6 +326,324 @@
       "file": "萱萱の三丽鸥嘎子姐_融合.bdi",
       "thumb": "萱萱の三丽鸥嘎子姐_融合.bdi_py_26_light_thumb.png",
       "full": "萱萱の三丽鸥嘎子姐_融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "萱萱の裙摆飞扬",
+      "file": "萱萱の裙摆飞扬.bds",
+      "thumb": "萱萱の裙摆飞扬.bds_py_26_light_thumb.png",
+      "full": "萱萱の裙摆飞扬.bds_py_26_light.png"
+    },
+    {
+      "name": "萱萱の新年kt大表姐",
+      "file": "萱萱の新年KT大表姐.bds",
+      "thumb": "萱萱の新年KT大表姐.bds_py_26_light_thumb.png",
+      "full": "萱萱の新年KT大表姐.bds_py_26_light.png"
+    },
+    {
+      "name": "萱萱の玛丽猫大表姐",
+      "file": "萱萱の玛丽猫大表姐.bds",
+      "thumb": "萱萱の玛丽猫大表姐.bds_py_26_light_thumb.png",
+      "full": "萱萱の玛丽猫大表姐.bds_py_26_light.png"
+    },
+    {
+      "name": "萱萱の草莓甜心",
+      "file": "萱萱の草莓甜心安卓.bds",
+      "thumb": "萱萱の草莓甜心安卓.bds_py_26_default_thumb.png",
+      "full": "萱萱の草莓甜心安卓.bds_py_26_default.png"
+    },
+    {
+      "name": "萱萱の小鲨鱼左拉",
+      "file": "萱萱の小鲨鱼左拉.bds",
+      "thumb": "萱萱の小鲨鱼左拉.bds_py_26_light_thumb.png",
+      "full": "萱萱の小鲨鱼左拉.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "小新嘎子姐啊.bds",
+      "thumb": "小新嘎子姐啊.bds_py_26_light_thumb.png",
+      "full": "小新嘎子姐啊.bds_py_26_light.png"
+    },
+    {
+      "name": "萱萱の新年大表姐",
+      "file": "萱萱の新年大表姐.bds",
+      "thumb": "萱萱の新年大表姐.bds_py_26_light_thumb.png",
+      "full": "萱萱の新年大表姐.bds_py_26_light.png"
+    },
+    {
+      "name": "萱萱の颜文字 黄",
+      "file": "萱萱の颜文字黄安卓.bds",
+      "thumb": "萱萱の颜文字黄安卓.bds_py_26_default_thumb.png",
+      "full": "萱萱の颜文字黄安卓.bds_py_26_default.png"
+    },
+    {
+      "name": "夏日",
+      "file": "夏日.bds",
+      "thumb": "夏日.bds_py_26_default_thumb.png",
+      "full": "夏日.bds_py_26_default.png"
+    },
+    {
+      "name": "萱萱の护士小兔",
+      "file": "萱萱の护士小兔闷脆.bds",
+      "thumb": "萱萱の护士小兔闷脆.bds_py_26_light_thumb.png",
+      "full": "萱萱の护士小兔闷脆.bds_py_26_light.png"
+    },
+    {
+      "name": "萱萱の春日小兔",
+      "file": "春.bds",
+      "thumb": "春.bds_py_26_light_thumb.png",
+      "full": "春.bds_py_26_light.png"
+    },
+    {
+      "name": "萱萱の蓝莓dora",
+      "file": "萱萱の蓝莓dora水晶版.bds",
+      "thumb": "萱萱の蓝莓dora水晶版.bds_py_26_light_thumb.png",
+      "full": "萱萱の蓝莓dora水晶版.bds_py_26_light.png"
+    },
+    {
+      "name": "萱萱の颜文字 粉",
+      "file": "萱萱の颜文字粉安卓.bds",
+      "thumb": "萱萱の颜文字粉安卓.bds_py_26_default_thumb.png",
+      "full": "萱萱の颜文字粉安卓.bds_py_26_default.png"
+    },
+    {
+      "name": "玛丽猫小表姐",
+      "file": "玛丽猫小表姐安卓.bds",
+      "thumb": "玛丽猫小表姐安卓.bds_py_26_default_thumb.png",
+      "full": "玛丽猫小表姐安卓.bds_py_26_default.png"
+    },
+    {
+      "name": "萱萱の黑粉兔兔嘎子姐",
+      "file": "黑粉兔兔嘎子姐.bds",
+      "thumb": "黑粉兔兔嘎子姐.bds_py_26_light_thumb.png",
+      "full": "黑粉兔兔嘎子姐.bds_py_26_light.png"
+    },
+    {
+      "name": "萱萱の蝴蝶大表姐",
+      "file": "蝴蝶大表姐闷脆.bds",
+      "thumb": "蝴蝶大表姐闷脆.bds_py_26_light_thumb.png",
+      "full": "蝴蝶大表姐闷脆.bds_py_26_light.png"
+    },
+    {
+      "name": "萱萱の红苹果嘎子姐",
+      "file": "萱萱の红苹果嘎子姐无漂浮.bds",
+      "thumb": "萱萱の红苹果嘎子姐无漂浮.bds_py_26_light_thumb.png",
+      "full": "萱萱の红苹果嘎子姐无漂浮.bds_py_26_light.png"
+    },
+    {
+      "name": "萱萱の新年嘎子姐",
+      "file": "萱萱の新年嘎子姐.bds",
+      "thumb": "萱萱の新年嘎子姐.bds_py_26_light_thumb.png",
+      "full": "萱萱の新年嘎子姐.bds_py_26_light.png"
+    },
+    {
+      "name": "萱萱の马上有钱dora",
+      "file": "萱萱の马上有钱dora.bds",
+      "thumb": "萱萱の马上有钱dora.bds_py_26_light_thumb.png",
+      "full": "萱萱の马上有钱dora.bds_py_26_light.png"
+    },
+    {
+      "name": "萱萱の颜文字 紫",
+      "file": "萱萱の颜文字紫安卓.bds",
+      "thumb": "萱萱の颜文字紫安卓.bds_py_26_default_thumb.png",
+      "full": "萱萱の颜文字紫安卓.bds_py_26_default.png"
+    },
+    {
+      "name": "萱萱の马上有钱大表姐",
+      "file": "萱萱の马上有钱大表姐.bds",
+      "thumb": "萱萱の马上有钱大表姐.bds_py_26_light_thumb.png",
+      "full": "萱萱の马上有钱大表姐.bds_py_26_light.png"
+    },
+    {
+      "name": "萱萱の三丽鸥嘎子姐",
+      "file": "萱萱の三丽鸥嘎子姐.bds",
+      "thumb": "萱萱の三丽鸥嘎子姐.bds_py_26_light_thumb.png",
+      "full": "萱萱の三丽鸥嘎子姐.bds_py_26_light.png"
+    },
+    {
+      "name": "萱萱の公主请发财",
+      "file": "萱萱の公主请发财.bds",
+      "thumb": "萱萱の公主请发财.bds_py_26_light_thumb.png",
+      "full": "萱萱の公主请发财.bds_py_26_light.png"
+    },
+    {
+      "name": "萱萱の圣诞dora",
+      "file": "萱萱の圣诞dora安卓.bds",
+      "thumb": "萱萱の圣诞dora安卓.bds_py_26_light_thumb.png",
+      "full": "萱萱の圣诞dora安卓.bds_py_26_light.png"
+    },
+    {
+      "name": "萱萱の红格子兔兔大表姐",
+      "file": "红格子嘎子姐.bds",
+      "thumb": "红格子嘎子姐.bds_py_26_light_thumb.png",
+      "full": "红格子嘎子姐.bds_py_26_light.png"
+    },
+    {
+      "name": "萱萱の青苹果女孩",
+      "file": "萱萱の青苹果妹妹.bds",
+      "thumb": "萱萱の青苹果妹妹.bds_py_26_light_thumb.png",
+      "full": "萱萱の青苹果妹妹.bds_py_26_light.png"
+    },
+    {
+      "name": "萱萱の定制",
+      "file": "定制.bds",
+      "thumb": "定制.bds_py_26_light_thumb.png",
+      "full": "定制.bds_py_26_light.png"
+    },
+    {
+      "name": "萱萱の彩色砂糖",
+      "file": "temp_1776583477891_1a2x4pr7_萱萱の彩色砂糖.bds",
+      "thumb": "temp_1776583477891_1a2x4pr7_萱萱の彩色砂糖.bds_py_26_light_thumb.png",
+      "full": "temp_1776583477891_1a2x4pr7_萱萱の彩色砂糖.bds_py_26_light.png"
+    },
+    {
+      "name": "萱萱の红苹果嘎子姐",
+      "file": "萱萱の红苹果嘎子姐2.bds",
+      "thumb": "萱萱の红苹果嘎子姐2.bds_py_26_light_thumb.png",
+      "full": "萱萱の红苹果嘎子姐2.bds_py_26_light.png"
+    },
+    {
+      "name": "萱萱のkt嘎子姐",
+      "file": "萱萱のKT嘎子姐.bds",
+      "thumb": "萱萱のKT嘎子姐.bds_py_26_light_thumb.png",
+      "full": "萱萱のKT嘎子姐.bds_py_26_light.png"
+    },
+    {
+      "name": "萱萱の小羊嘎子姐",
+      "file": "萱萱の小羊嘎子姐.bds",
+      "thumb": "萱萱の小羊嘎子姐.bds_py_26_light_thumb.png",
+      "full": "萱萱の小羊嘎子姐.bds_py_26_light.png"
+    },
+    {
+      "name": "萱萱の紫色甜辣大表姐",
+      "file": "萱萱の紫色甜辣大表姐.bds",
+      "thumb": "萱萱の紫色甜辣大表姐.bds_py_26_light_thumb.png",
+      "full": "萱萱の紫色甜辣大表姐.bds_py_26_light.png"
+    },
+    {
+      "name": "萱萱の蝴蝶大表姐",
+      "file": "蝴蝶大表姐脆脆.bds",
+      "thumb": "蝴蝶大表姐脆脆.bds_py_26_light_thumb.png",
+      "full": "蝴蝶大表姐脆脆.bds_py_26_light.png"
+    },
+    {
+      "name": "萱萱の颜文字 蓝",
+      "file": "萱萱の颜文字蓝安卓.bds",
+      "thumb": "萱萱の颜文字蓝安卓.bds_py_26_default_thumb.png",
+      "full": "萱萱の颜文字蓝安卓.bds_py_26_default.png"
+    },
+    {
+      "name": "萱萱の冬日嘎子姐",
+      "file": "萱萱の冬日嘎子姐.bds",
+      "thumb": "萱萱の冬日嘎子姐.bds_py_26_light_thumb.png",
+      "full": "萱萱の冬日嘎子姐.bds_py_26_light.png"
+    },
+    {
+      "name": "萱萱の甜点兔",
+      "file": "萱萱の甜点兔.bds",
+      "thumb": "萱萱の甜点兔.bds_py_26_default_thumb.png",
+      "full": "萱萱の甜点兔.bds_py_26_default.png"
+    },
+    {
+      "name": "萱萱のkt熊小表姐",
+      "file": "萱萱のkt熊小表姐.bds",
+      "thumb": "萱萱のkt熊小表姐.bds_py_26_light_thumb.png",
+      "full": "萱萱のkt熊小表姐.bds_py_26_light.png"
+    },
+    {
+      "name": "萱萱の帕恰小表姐",
+      "file": "萱萱の帕恰小表姐.bds",
+      "thumb": "萱萱の帕恰小表姐.bds_py_26_light_thumb.png",
+      "full": "萱萱の帕恰小表姐.bds_py_26_light.png"
+    },
+    {
+      "name": "萱萱の电话美乐蒂嘎子姐",
+      "file": "萱萱の电话美乐蒂嘎子姐.bds",
+      "thumb": "萱萱の电话美乐蒂嘎子姐.bds_py_26_light_thumb.png",
+      "full": "萱萱の电话美乐蒂嘎子姐.bds_py_26_light.png"
+    },
+    {
+      "name": "萱萱の喜福相伴",
+      "file": "萱萱の喜福相伴.bds",
+      "thumb": "萱萱の喜福相伴.bds_py_26_light_thumb.png",
+      "full": "萱萱の喜福相伴.bds_py_26_light.png"
+    },
+    {
+      "name": "萱萱の宝宝，在吗！！！",
+      "file": "萱萱の宝宝在吗.bds",
+      "thumb": "萱萱の宝宝在吗.bds_py_26_light_thumb.png",
+      "full": "萱萱の宝宝在吗.bds_py_26_light.png"
+    },
+    {
+      "name": "萱萱の彩色砂糖",
+      "file": "萱萱の彩色砂糖.bds",
+      "thumb": "萱萱の彩色砂糖.bds_py_26_light_thumb.png",
+      "full": "萱萱の彩色砂糖.bds_py_26_light.png"
+    },
+    {
+      "name": "萱萱の新年yomi",
+      "file": "萱萱の新年yomi.bds",
+      "thumb": "萱萱の新年yomi.bds_py_26_light_thumb.png",
+      "full": "萱萱の新年yomi.bds_py_26_light.png"
+    },
+    {
+      "name": "萱萱の护士小兔",
+      "file": "萱萱の护士小兔脆脆.bds",
+      "thumb": "萱萱の护士小兔脆脆.bds_py_26_light_thumb.png",
+      "full": "萱萱の护士小兔脆脆.bds_py_26_light.png"
+    },
+    {
+      "name": "萱萱の蝴蝶大表姐 水晶脆脆",
+      "file": "蝴蝶大表姐水晶版脆脆.bds",
+      "thumb": "蝴蝶大表姐水晶版脆脆.bds_py_26_light_thumb.png",
+      "full": "蝴蝶大表姐水晶版脆脆.bds_py_26_light.png"
+    },
+    {
+      "name": "萱萱の福利1",
+      "file": "萱萱の福利1.bds",
+      "thumb": "萱萱の福利1.bds_py_26_light_thumb.png",
+      "full": "萱萱の福利1.bds_py_26_light.png"
+    },
+    {
+      "name": "萱萱の定制 我家大师兄脑子有坑",
+      "file": "我家大师兄脑子有坑.bds",
+      "thumb": "我家大师兄脑子有坑.bds_py_26_light_thumb.png",
+      "full": "我家大师兄脑子有坑.bds_py_26_light.png"
+    },
+    {
+      "name": "萱萱の草莓小狗嘎子姐",
+      "file": "草莓小狗嘎子姐.bds",
+      "thumb": "草莓小狗嘎子姐.bds_py_26_light_thumb.png",
+      "full": "草莓小狗嘎子姐.bds_py_26_light.png"
+    },
+    {
+      "name": "萱萱の马上有钱小表姐",
+      "file": "萱萱の马上有钱小表姐.bds",
+      "thumb": "萱萱の马上有钱小表姐.bds_py_26_light_thumb.png",
+      "full": "萱萱の马上有钱小表姐.bds_py_26_light.png"
+    },
+    {
+      "name": "萱萱の蝴蝶大表姐 水晶版",
+      "file": "蝴蝶大表姐水晶闷脆.bds",
+      "thumb": "蝴蝶大表姐水晶闷脆.bds_py_26_light_thumb.png",
+      "full": "蝴蝶大表姐水晶闷脆.bds_py_26_light.png"
+    },
+    {
+      "name": "萱萱の博肖新年",
+      "file": "萱萱の博肖新年安卓.bds",
+      "thumb": "萱萱の博肖新年安卓.bds_py_26_light_thumb.png",
+      "full": "萱萱の博肖新年安卓.bds_py_26_light.png"
+    },
+    {
+      "name": "萱萱の新年dora",
+      "file": "萱萱の新年dora安卓.bds",
+      "thumb": "萱萱の新年dora安卓.bds_py_26_light_thumb.png",
+      "full": "萱萱の新年dora安卓.bds_py_26_light.png"
+    },
+    {
+      "name": "萱萱の蓝莓dora",
+      "file": "萱萱の蓝莓dora立体版.bds",
+      "thumb": "萱萱の蓝莓dora立体版.bds_py_26_light_thumb.png",
+      "full": "萱萱の蓝莓dora立体版.bds_py_26_light.png"
     }
   ]
 }

@@ -1,50 +1,8 @@
 {
   "qq_number": "1904164105",
   "group_number": "874432773",
-  "updated_at": "2026-04-22T16:19:42.655641",
+  "updated_at": "2026-04-23T15:52:39.050357",
   "skins": [
-    {
-      "name": "萱萱の小雏菊兔兔大表姐",
-      "file": "萱萱の小雏菊兔兔大表姐闷脆.bds",
-      "thumb": "萱萱の小雏菊兔兔大表姐闷脆.bds_py_26_light_thumb.png",
-      "full": "萱萱の小雏菊兔兔大表姐闷脆.bds_py_26_light.png"
-    },
-    {
-      "name": "萱萱の玉桂狗大表姐",
-      "file": "萱萱の玉桂狗大表姐脆脆.bds",
-      "thumb": "萱萱の玉桂狗大表姐脆脆.bds_py_26_light_thumb.png",
-      "full": "萱萱の玉桂狗大表姐脆脆.bds_py_26_light.png"
-    },
-    {
-      "name": "萱萱の郁金香大表姐",
-      "file": "郁金香大表姐闷脆.bds",
-      "thumb": "郁金香大表姐闷脆.bds_py_26_light_thumb.png",
-      "full": "郁金香大表姐闷脆.bds_py_26_light.png"
-    },
-    {
-      "name": "萱萱の玉桂狗大表姐",
-      "file": "萱萱の玉桂狗大表姐闷脆.bds",
-      "thumb": "萱萱の玉桂狗大表姐闷脆.bds_py_26_light_thumb.png",
-      "full": "萱萱の玉桂狗大表姐闷脆.bds_py_26_light.png"
-    },
-    {
-      "name": "萱萱の郁金香大表姐",
-      "file": "郁金香大表姐脆脆.bds",
-      "thumb": "郁金香大表姐脆脆.bds_py_26_light_thumb.png",
-      "full": "郁金香大表姐脆脆.bds_py_26_light.png"
-    },
-    {
-      "name": "萱萱の小雏菊兔兔大表姐",
-      "file": "萱萱の小雏菊兔兔大表姐脆脆.bds",
-      "thumb": "萱萱の小雏菊兔兔大表姐脆脆.bds_py_26_light_thumb.png",
-      "full": "萱萱の小雏菊兔兔大表姐脆脆.bds_py_26_light.png"
-    },
-    {
-      "name": "萱萱の彩色砂糖",
-      "file": "萱萱の彩色砂糖.bds",
-      "thumb": "萱萱の彩色砂糖.bds_py_26_light_thumb.png",
-      "full": "萱萱の彩色砂糖.bds_py_26_light.png"
-    },
     {
       "name": "萱萱の彩色砂糖",
       "file": "萱萱の彩色砂糖.bdi",
@@ -86,6 +44,48 @@
       "file": "郁金香大表姐闷脆.bdi",
       "thumb": "郁金香大表姐闷脆.bdi_py_26_light_thumb.png",
       "full": "郁金香大表姐闷脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "萱萱の小雏菊兔兔大表姐",
+      "file": "萱萱の小雏菊兔兔大表姐闷脆.bds",
+      "thumb": "萱萱の小雏菊兔兔大表姐闷脆.bds_py_26_light_thumb.png",
+      "full": "萱萱の小雏菊兔兔大表姐闷脆.bds_py_26_light.png"
+    },
+    {
+      "name": "萱萱の玉桂狗大表姐",
+      "file": "萱萱の玉桂狗大表姐脆脆.bds",
+      "thumb": "萱萱の玉桂狗大表姐脆脆.bds_py_26_light_thumb.png",
+      "full": "萱萱の玉桂狗大表姐脆脆.bds_py_26_light.png"
+    },
+    {
+      "name": "萱萱の郁金香大表姐",
+      "file": "郁金香大表姐闷脆.bds",
+      "thumb": "郁金香大表姐闷脆.bds_py_26_light_thumb.png",
+      "full": "郁金香大表姐闷脆.bds_py_26_light.png"
+    },
+    {
+      "name": "萱萱の玉桂狗大表姐",
+      "file": "萱萱の玉桂狗大表姐闷脆.bds",
+      "thumb": "萱萱の玉桂狗大表姐闷脆.bds_py_26_light_thumb.png",
+      "full": "萱萱の玉桂狗大表姐闷脆.bds_py_26_light.png"
+    },
+    {
+      "name": "萱萱の郁金香大表姐",
+      "file": "郁金香大表姐脆脆.bds",
+      "thumb": "郁金香大表姐脆脆.bds_py_26_light_thumb.png",
+      "full": "郁金香大表姐脆脆.bds_py_26_light.png"
+    },
+    {
+      "name": "萱萱の小雏菊兔兔大表姐",
+      "file": "萱萱の小雏菊兔兔大表姐脆脆.bds",
+      "thumb": "萱萱の小雏菊兔兔大表姐脆脆.bds_py_26_light_thumb.png",
+      "full": "萱萱の小雏菊兔兔大表姐脆脆.bds_py_26_light.png"
+    },
+    {
+      "name": "萱萱の彩色砂糖",
+      "file": "萱萱の彩色砂糖.bds",
+      "thumb": "萱萱の彩色砂糖.bds_py_26_light_thumb.png",
+      "full": "萱萱の彩色砂糖.bds_py_26_light.png"
     }
   ]
 }
