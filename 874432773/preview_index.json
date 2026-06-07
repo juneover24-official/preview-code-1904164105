@@ -1,7 +1,7 @@
 {
   "qq_number": "1904164105",
   "group_number": "874432773",
-  "updated_at": "2026-06-07T08:49:43+00:00",
+  "updated_at": "2026-06-07T08:51:46+00:00",
   "skins": [
     {
       "name": "萱萱の彩色砂糖",
@@ -104,6 +104,12 @@
       "file": "粉粉小兔大表姐云朵顶栏脆脆.bdi",
       "thumb": "粉粉小兔大表姐云朵顶栏脆脆.bdi_py_26_light_thumb.png",
       "full": "粉粉小兔大表姐云朵顶栏脆脆.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "萱萱の粉粉小兔大表姐云朵顶栏闷脆",
+      "file": "萱萱の粉粉小兔大表姐云朵顶栏闷脆.bdi",
+      "thumb": "萱萱の粉粉小兔大表姐云朵顶栏闷脆.bdi_py_26_light_thumb.png",
+      "full": "萱萱の粉粉小兔大表姐云朵顶栏闷脆.bdi_py_26_light_thumb.png"
     }
   ]
 }
