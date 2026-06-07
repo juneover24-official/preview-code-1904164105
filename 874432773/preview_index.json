@@ -1,7 +1,7 @@
 {
   "qq_number": "1904164105",
   "group_number": "874432773",
-  "updated_at": "2026-06-07T08:56:09+00:00",
+  "updated_at": "2026-06-07T08:56:40+00:00",
   "skins": [
     {
       "name": "萱萱の彩色砂糖",
@@ -122,6 +122,12 @@
       "file": "草莓小兔嘎子姐脆脆音.bdi",
       "thumb": "草莓小兔嘎子姐脆脆音.bdi_py_26_light_thumb.png",
       "full": "草莓小兔嘎子姐脆脆音.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "草莓小兔嘎子姐闷脆音",
+      "file": "草莓小兔嘎子姐闷脆音.bdi",
+      "thumb": "草莓小兔嘎子姐闷脆音.bdi_py_26_light_thumb.png",
+      "full": "草莓小兔嘎子姐闷脆音.bdi_py_26_light_thumb.png"
     }
   ]
 }
