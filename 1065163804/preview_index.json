@@ -1,7 +1,7 @@
 {
   "qq_number": "1904164105",
   "group_number": "1065163804",
-  "updated_at": "2026-06-12T07:29:05+00:00",
+  "updated_at": "2026-06-12T23:42:16+00:00",
   "skins": [
     {
       "name": "萱萱の甜点兔",
@@ -668,6 +668,12 @@
       "file": "爱丽丝大表姐闷脆.bds",
       "thumb": "爱丽丝大表姐闷脆.bds_py_26_light_thumb.png",
       "full": "爱丽丝大表姐闷脆.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "mikko大表姐_融合",
+      "file": "mikko大表姐_融合.bdi",
+      "thumb": "mikko大表姐_融合.bdi_py_26_light_thumb.png",
+      "full": "mikko大表姐_融合.bdi_py_26_light_thumb.png"
     }
   ]
 }
